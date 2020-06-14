@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>gridWorld.js</file>
+    </qresource>
+</RCC>
